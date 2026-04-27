@@ -33,25 +33,14 @@
 
 ## 👨‍💻 About Me
 
-```javascript
-const elsayed = {
-  name:       "Elsayed Elshaerawy",
-  role:       "Full Stack Developer",
-  location:   "Egypt 🇪🇬",
-  email:      "elsayedelshaerawy@gmail.com",
-  linkedin:   "linkedin.com/in/elsayed-elshaerawy",
-  github:     "github.com/Elsayed009",
+Hi there! I'm Elsayed Elshaerawy, a passionate Full Stack Developer based in Egypt 🇪🇬.
+I enjoy building end-to-end web applications — from crafting clean, responsive frontends to designing robust backend systems. I'm always hungry to learn new technologies and push my skills further with every project I take on.
 
-  skills: {
-    frontend:  ["HTML", "CSS", "JavaScript", "React"],
-    backend:   ["Node.js", "Express.js"],
-    languages: ["JavaScript", "C++"],
-    tools:     ["Git", "GitHub", "VS Code"],
-  },
-
-  currentFocus: "Building scalable full stack web applications",
-  openTo:       "Collaborations & new opportunities 🚀",
-};
+🔭 Currently focused on building scalable full stack web applications
+🌱 Continuously improving my skills in JavaScript, Node.js, and modern web frameworks
+💡 I believe great software is not just about functionality — it's about the experience it delivers
+🤝 Open to collaborations, freelance work, and exciting new opportunities
+📬 Reach me at elsayedelshaerawy@gmail.com or on LinkedIn
 ```
 
 ---
