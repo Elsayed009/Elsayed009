@@ -33,15 +33,15 @@
 
 ## 👨‍💻 About Me
 
-Hi there! I'm Elsayed Elshaerawy, a passionate Full Stack Developer based in Egypt 🇪🇬.
+Hi there! I'm **Elsayed Elshaerawy**, a passionate **Full Stack Developer** based in Egypt 🇪🇬.
+
 I enjoy building end-to-end web applications — from crafting clean, responsive frontends to designing robust backend systems. I'm always hungry to learn new technologies and push my skills further with every project I take on.
 
-🔭 Currently focused on building scalable full stack web applications
-🌱 Continuously improving my skills in JavaScript, Node.js, and modern web frameworks
-💡 I believe great software is not just about functionality — it's about the experience it delivers
-🤝 Open to collaborations, freelance work, and exciting new opportunities
-📬 Reach me at elsayedelshaerawy@gmail.com or on LinkedIn
-```
+- 🔭 Currently focused on building scalable full stack web applications
+- 🌱 Continuously improving my skills in JavaScript, Node.js, and modern web frameworks
+- 💡 I believe great software is not just about functionality — it's about the experience it delivers
+- 🤝 Open to collaborations, freelance work, and exciting new opportunities
+- 📬 Reach me at **elsayedelshaerawy@gmail.com** or on [LinkedIn](https://www.linkedin.com/in/elsayed-elshaerawy/)
 
 ---
 
