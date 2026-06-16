@@ -18,7 +18,7 @@
     <img src="https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=Globe&logoColor=white" alt="Portfolio" />
   </a>
   &nbsp;
-  <a href="./Elsayed_Elkhozamy_CV.pdf">
+  <a href="https://github.com/Elsayed009/Elsayed009/raw/main/Elsayed_Elkhozamy_CV.pdf">
     <img src="https://img.shields.io/badge/Download_CV-47A248?style=for-the-badge&logo=Read-the-Docs&logoColor=white" alt="Download CV" />
   </a>
   &nbsp;
@@ -156,7 +156,7 @@ I specialize in building secure, scalable, and cloud-ready web applications. Cur
 | 🌐 **Portfolio** | [elsayed009.github.io/portfolio](https://elsayed009.github.io/portfolio/) |
 | 💼 **LinkedIn** | [linkedin.com/in/elsayed-elshaerawy](https://www.linkedin.com/in/elsayed-elshaerawy/) |
 | 📧 **Email** | [elsayedelshaerawy@gmail.com](mailto:elsayedelshaerawy@gmail.com) |
-| 📄 **Resume / CV** | [Download My CV (PDF)](./Elsayed_Elkhozamy_CV.pdf) |
+| 📄 **Resume / CV** | [Download My CV (PDF)](https://github.com/Elsayed009/Elsayed009/raw/main/Elsayed_Elkhozamy_CV.pdf) |
 
 </div>
 
